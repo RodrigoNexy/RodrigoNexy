@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Carvalho
 
 - 🔭 Hoje eu trabalho com FrontEnd e BackEnd
-- 🌱 Estou estudando JavaScript, ReactJS
+- 🌱 Estou estudando ReactJS
 - 📫 Contate-me pelo email: rodrigogoulart97@gmail.com
 
 <div style="display: inline_block"><br>
